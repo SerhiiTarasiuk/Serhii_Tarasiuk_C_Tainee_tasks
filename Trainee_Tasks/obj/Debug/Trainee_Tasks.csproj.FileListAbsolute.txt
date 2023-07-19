@@ -1,0 +1,8 @@
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\bin\Debug\Trainee_Tasks.exe.config
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\bin\Debug\Trainee_Tasks.exe
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\bin\Debug\Trainee_Tasks.pdb
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\obj\Debug\Trainee_Tasks.csproj.AssemblyReference.cache
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\obj\Debug\Trainee_Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\obj\Debug\Trainee_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\obj\Debug\Trainee_Tasks.exe
+C:\Users\slmmm\Desktop\TAsk\Trainee_Tasks\obj\Debug\Trainee_Tasks.pdb
